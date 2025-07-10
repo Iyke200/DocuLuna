@@ -1,0 +1,16 @@
+python-telegram-bot==20.7
+celery==5.3.6
+redis==5.0.1
+fastapi==0.103.2
+uvicorn==0.23.2
+sqlalchemy[asyncio]==2.0.23
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+PyPDF2==3.0.1
+pdf2docx==0.5.6
+sentry-sdk[fastapi]==1.39.1
+fastapi-limiter==0.1.6
+pytest==7.4.3
+pytest-asyncio==0.21.1
+httpx==0.25.2
+locust==2.20.0
